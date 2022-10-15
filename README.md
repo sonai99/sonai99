@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/hustler052199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hustler052199" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anirban-dutta-6a2bb317a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anirban-dutta-6a2bb317a/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sonai1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sonai1999" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sonai1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sonai1999" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/anirbandutta428/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anirbandutta428/" height="30" width="40" /></a>
 </p>
 
