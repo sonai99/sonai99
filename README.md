@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hustler052199" target="blank"><img src="https://img.shields.io/twitter/follow/hustler052199?logo=twitter&style=for-the-badge" alt="hustler052199" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React, Node, C++, DSA**
 
