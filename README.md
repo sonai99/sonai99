@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, Node, C++, DSA**
+- 💬 Ask me about **React, Javascript, C++, DSA**
 
 - 📫 How to reach me **anirbandutta428@gmail.com**
 
