@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **anirbandutta428@gmail.com**
 
-- 📄 Check out all my links [(https://linktr.ee/hustler052199)]((https://linktr.ee/hustler052199))]
+- 🔗 [Check out all my links](https://linktr.ee/hustler052199)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
