@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/hustler052199" target="blank"><img src="https://img.shields.io/twitter/follow/hustler052199?logo=twitter&style=for-the-badge" alt="hustler052199" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React & Javascript**
 
 - 💬 Ask me about **React, Javascript, C++, DSA**
 
 - 📫 How to reach me **anirbandutta428@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ui2a63c3b7qYiKmyiH93BQLbyPIVbfzf/view?usp=sharing](https://drive.google.com/file/d/1uzrCKj2moRjFiDFwbX6cuTZzjWC5RtUC/view?usp=sharing)
+- 📄 Check out all my links [[https://drive.google.com/file/d/1ui2a63c3b7qYiKmyiH93BQLbyPIVbfzf/view?usp=sharing](https://linktr.ee/hustler052199)]([https://drive.google.com/file/d/1uzrCKj2moRjFiDFwbX6cuTZzjWC5RtUC/view?usp=sharing](https://linktr.ee/hustler052199))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
