@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/hustler052199" target="blank"><img src="https://img.shields.io/twitter/follow/hustler052199?logo=twitter&style=for-the-badge" alt="hustler052199" /></a> </p>
 
-- 🌱 I’m currently learning **React & Javascript**
+- 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **React, Javascript, C++, DSA**
+- 💬 Ask me about **MERN, Javascript, C++, DSA**
 
 - 📫 How to reach me **anirbandutta428@gmail.com**
 
