@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://twitter.com/Hustl3r05" target="blank"><img src="https://img.shields.io/twitter/follow/hustler052199?logo=twitter&style=for-the-badge" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Hustl3r05" target="blank"><img src="https://img.shields.io/twitter/follow/Hustl3r05?logo=twitter&style=for-the-badge" /></a> </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sonai99&count_private=true&show_icons=true&hide=contribs"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonai99&layout=compact" />
